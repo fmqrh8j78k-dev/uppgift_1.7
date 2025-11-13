@@ -1,6 +1,6 @@
 # uppgift_1.7
 
-# 1. Skapa ett konto.
+1. Skapa ett konto.
 
 # 2. Skapa ett nytt repository (repo).
 
